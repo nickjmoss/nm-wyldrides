@@ -4,4 +4,7 @@ window._config = {
         userPoolClientId: '9roifdcm71c5dnq03ih6givvt', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'us-east-1' // e.g. us-east-2
     },
+	api: {
+		invokeUrl: 'https://25an8tfmrl.execute-api.us-east-1.amazonaws.com/prod'
+	}
 };
